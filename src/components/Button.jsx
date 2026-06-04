@@ -22,9 +22,5 @@ const Button = ({ btn, values, setValues, setPrevValue, setResult }) => {
     </button>
   );
 };
-{
-  /* <button className="aspect-square transition-all duration-200 rounded-2xl border flex items-center justify-center active:scale-95 ">
-  +
-</button>; */
-}
+
 export default Button;

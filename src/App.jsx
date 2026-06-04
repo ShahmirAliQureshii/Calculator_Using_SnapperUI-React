@@ -45,7 +45,6 @@ export default function App() {
   const [prevValue, setPrevValue] = useState(null);
   const [result, setResult] = useState(null);
 
-  console.log("Result : ", result, prevValue, values);
 
   return (
     <div className="min-h-screen bg-white">
